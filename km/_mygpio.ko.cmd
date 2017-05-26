@@ -1,0 +1,1 @@
+cmd_/ad/eng/users/z/t/ztc/Documents/EC535/project/km/mygpio.ko := arm-linux-ld -EL  -r -o /ad/eng/users/z/t/ztc/Documents/EC535/project/km/mygpio.ko /ad/eng/users/z/t/ztc/Documents/EC535/project/km/mygpio.o /ad/eng/users/z/t/ztc/Documents/EC535/project/km/mygpio.mod.o
